@@ -1,0 +1,27 @@
+PROPRIETARY INTELLECTUAL PROPERTY NOTICE & LICENSE
+ALL RIGHTS RESERVED
+
+Copyright (c) 2026 AEVOV. All rights reserved.
+
+1. PROPRIETARY MATERIAL
+All contents of this repository, including but not limited to text, documentation, specifications, diagrams, algorithms, and architectural blueprints (collectively, the "Proprietary Material"), are the exclusive intellectual property of the author.
+
+2. STRICT LICENSE RESTRICTIONS
+No permission is granted to any individual, corporation, organization, or entity to:
+- Copy, redistribute, publish, or transmit any portion of the Proprietary Material in any form or by any means.
+- Modify, adapt, translate, transform, or build upon the Proprietary Material (no derivative works).
+- Use the Proprietary Material, or any concepts derived from it, for any commercial, non-commercial, educational, research, or development purposes.
+- Use the Proprietary Material to train, evaluate, or fine-tune machine learning models, artificial intelligence systems, or neural network architectures.
+
+3. NO IMPLIED LICENSES
+Access to this repository does not grant any license, explicit or implied, under any patents, copyrights, trademarks, or trade secret information. Any unauthorized use of the Proprietary Material constitutes a direct infringement of copyright and intellectual property rights and will be subject to immediate legal action.
+
+4. MESH PARTICIPATION EXCEPTION
+Authorized participants in the SentienceCloud Mesh Network (*.sentiencecloud.one) are granted a limited, revocable, non-transferable license to interact with deployed instances of this substrate through the official mesh protocol interfaces only. This participation license:
+- Does NOT grant access to source code, algorithms, or architectural specifications
+- Is revocable at any time without notice
+- Requires active mesh identity verification (meshId.q)
+- Is limited to runtime interaction through published API endpoints
+
+5. CONTACT FOR PERMISSION
+For inquiries regarding licensing, publication, or authorized academic review, contact the copyright holder directly. Any authorized use requires a separate, signed written agreement.

@@ -1,0 +1,30 @@
+{
+  "name": "afolabi-lbm-170s-lattice",
+  "version": "0.1.0",
+  "description": "170 Sextillion parameter Lattice-Boltzmann consciousness substrate — Stellar Cosmic Substrate with Mandate of Heaven governance",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "bench": "tsx bench/slops-170s.ts",
+    "test": "vitest",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "lattice-boltzmann",
+    "consciousness",
+    "asi",
+    "mandate-of-heaven",
+    "170S",
+    "kuramoto",
+    "nara",
+    "qasm"
+  ],
+  "author": "AEVOV",
+  "license": "SEE LICENSE",
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "tsx": "^4.19.0",
+    "vitest": "^3.0.0"
+  }
+}
